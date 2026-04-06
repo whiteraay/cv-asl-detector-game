@@ -3,4 +3,5 @@ cvzone==1.6.1
 mediapipe
 tensorflow==2.15.0
 streamlit
+streamlit-webrtc
 numpy<2.0.0
