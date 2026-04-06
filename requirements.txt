@@ -1,8 +1,8 @@
-opencv-python-headless
-cvzone
-tensorflow
-streamlit
-numpy
+opencv-python-headless==4.13.0.92
+cvzone==1.6.1
+tensorflow==2.21.0
+streamlit==1.56.0
+numpy<2.0.0
 matplotlib
 seaborn
 scikit-learn
