@@ -1,8 +1,6 @@
 opencv-python-headless
 cvzone==1.6.1
+mediapipe
 tensorflow==2.15.0
 streamlit
 numpy<2.0.0
-matplotlib
-seaborn
-scikit-learn
